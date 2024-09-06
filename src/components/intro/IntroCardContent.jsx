@@ -7,6 +7,8 @@ function IntroCardContent() {
     <div
       style={{
         font: "Plus Jakarta Sans",
+        // width: "611px",
+        color: "#969696",
         display: "flex",
         flexDirection: "row",
       }}

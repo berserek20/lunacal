@@ -4,7 +4,6 @@ body {
   background-color: grey;
   color: white;
   font-size: 20px;
-
   margin: 0px;
   box-sizing: 0px;
   padding: 0px;
@@ -21,6 +20,7 @@ code {
     monospace;
 }
 button{
+  font-family: 'Poppins';
   cursor: pointer;
   display: flex;
   justify-content: center;
