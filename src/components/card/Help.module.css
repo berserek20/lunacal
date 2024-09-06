@@ -1,0 +1,13 @@
+.boundary{
+    width: 2rem;
+    height: 2rem;
+    border: 2px solid white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    border: linear-gradient(#4A4E54, #A3ADBA);
+    color: linear-gradient(#4A4E54, #A3ADBA);
+    margin: 1rem;
+
+}
+

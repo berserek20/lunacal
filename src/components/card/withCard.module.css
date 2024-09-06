@@ -1,0 +1,22 @@
+.newCardLayout{
+    display: flex;
+    flex-direction: row;
+    background-color: #363C43;
+    box-shadow: 5.67px 5.67px 3.78px #00000066;
+    border-radius: 10%;
+    /* border: "2px solid red"; */
+    margin: 1rem,
+}
+.sidebar{
+    width: 10%;
+}
+.endLine{
+    width: 70%;
+    height: 0.25rem;
+    border-radius: 10%;
+    background-color: black;
+    align-self: center;
+    justify-self: center;
+    margin: 1rem;
+
+}

@@ -1,0 +1,12 @@
+.newCardLayout{
+    display: flex;
+    flex-direction: row;
+    background-color: #363C43;
+    /* box-shadow: ; */
+    /* border: 2px solid red; */
+
+}
+.sidebar{
+    border: 2px solid red;
+    width: 10%;
+}
